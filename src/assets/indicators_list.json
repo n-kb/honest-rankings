@@ -1,0 +1,1814 @@
+[
+  {
+    "code": "AG.LND.IRIG.AG.ZS",
+    "name": "Agricultural irrigated land (% of total agricultural land)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.LND.AGRI.ZS",
+    "name": "Agricultural land (% of land area)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.LND.TRAC.ZS",
+    "name": "Agricultural machinery, tractors per 100 sq. km of arable land",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "NV.AGR.TOTL.ZS",
+    "name": "Agriculture, value added (% of GDP)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.LND.ARBL.ZS",
+    "name": "Arable land (% of land area)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.LND.ARBL.HA.PC",
+    "name": "Arable land (hectares per person)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.YLD.CREL.KG",
+    "name": "Cereal yield (kg per hectare)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.PRD.CROP.XD",
+    "name": "Crop production index (2004-2006 = 100)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "SL.AGR.EMPL.FE.ZS",
+    "name": "Employment in agriculture, female (% of female employment) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "SL.AGR.EMPL.MA.ZS",
+    "name": "Employment in agriculture, male (% of male employment) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.CON.FERT.ZS",
+    "name": "Fertilizer consumption (kilograms per hectare of arable land)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.PRD.FOOD.XD",
+    "name": "Food production index (2004-2006 = 100)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.LND.FRST.ZS",
+    "name": "Forest area (% of land area)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.LND.FRST.K2",
+    "name": "Forest area (sq. km)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.LND.TOTL.K2",
+    "name": "Land area (sq. km)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.LND.CREL.HA",
+    "name": "Land under cereal production (hectares)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.LND.CROP.ZS",
+    "name": "Permanent cropland (% of land area)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "SP.RUR.TOTL",
+    "name": "Rural population",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "SP.RUR.TOTL.ZS",
+    "name": "Rural population (% of total population)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "SI.POV.RUGP",
+    "name": "Rural poverty gap at national poverty lines (%)",
+    "is_reverse": 1,
+    "category": "Agriculture"
+  },
+  {
+    "code": "SI.POV.RUHC",
+    "name": "Rural poverty headcount ratio at national poverty lines (% of rural population)",
+    "is_reverse": 1,
+    "category": "Agriculture"
+  },
+  {
+    "code": "AG.SRF.TOTL.K2",
+    "name": "Surface area (sq. km)",
+    "is_reverse": "",
+    "category": "Agriculture"
+  },
+  {
+    "code": "BX.GRT.EXTA.CD.WD",
+    "name": "Grants, excluding technical cooperation (BoP, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "SH.TBS.INCD",
+    "name": "Incidence of tuberculosis (per 100,000 people)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SI.DST.FRST.20",
+    "name": "Income share held by lowest 20%",
+    "is_reverse": "",
+    "category": "Poverty"
+  },
+  {
+    "code": "SH.STA.MMRT",
+    "name": "Maternal mortality ratio (modeled estimate, per 100,000 live births)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.DYN.MORT",
+    "name": "Mortality rate, under-5 (per 1,000 live births)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "DT.ODA.ODAT.GN.ZS",
+    "name": "Net ODA received (% of GNI)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.ODA.ODAT.XP.ZS",
+    "name": "Net ODA received (% of central government expense)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.ODA.ODAT.GI.ZS",
+    "name": "Net ODA received (% of gross capital formation)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.ODA.ODAT.MP.ZS",
+    "name": "Net ODA received (% of imports of goods, services and primary income)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.ODA.ODAT.PC.ZS",
+    "name": "Net ODA received per capita (current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "SM.POP.NETM",
+    "name": "Net migration",
+    "is_reverse": "",
+    "category": "Migration"
+  },
+  {
+    "code": "DT.ODA.ODAT.CD",
+    "name": "Net official development assistance received (current US$)",
+    "is_reverse": "",
+    "category": "Poverty"
+  },
+  {
+    "code": "SI.POV.DDAY",
+    "name": "Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)",
+    "is_reverse": 1,
+    "category": "Poverty"
+  },
+  {
+    "code": "SH.STA.ANVC.ZS",
+    "name": "Pregnant women receiving prenatal care (%)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SH.DYN.AIDS.ZS",
+    "name": "Prevalence of HIV, total (% of population ages 15-49)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.STA.STNT.ZS",
+    "name": "Prevalence of stunting, height for age (% of children under 5)",
+    "is_reverse": 1,
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.CMPT.ZS",
+    "name": "Primary completion rate, total (% of relevant age group)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "BX.GRT.TECH.CD.WD",
+    "name": "Technical cooperation grants (BoP, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "EG.ELC.ACCS.ZS",
+    "name": "Access to electricity (% of population)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "ER.H2O.FWTL.ZS",
+    "name": "Annual freshwater withdrawals, total (% of internal resources)",
+    "is_reverse": "",
+    "category": "Environment"
+  },
+  {
+    "code": "ER.H2O.FWTL.K3",
+    "name": "Annual freshwater withdrawals, total (billion cubic meters)",
+    "is_reverse": "",
+    "category": "Environment"
+  },
+  {
+    "code": "EN.ATM.CO2E.KT",
+    "name": "CO2 emissions (kt)",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "EN.ATM.CO2E.PC",
+    "name": "CO2 emissions (metric tons per capita)",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "IQ.CPA.PUBS.XQ",
+    "name": "CPIA public sector management and institutions cluster average (1=low to 6=high)",
+    "is_reverse": "",
+    "category": "Environment"
+  },
+  {
+    "code": "EG.USE.ELEC.KH.PC",
+    "name": "Electric power consumption (kWh per capita)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "EG.USE.PCAP.KG.OE",
+    "name": "Energy use (kg of oil equivalent per capita)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "AG.LND.EL5M.ZS",
+    "name": "Land area where elevation is below 5 meters (% of total land area)",
+    "is_reverse": "",
+    "category": "Environment"
+  },
+  {
+    "code": "EN.ATM.METH.KT.CE",
+    "name": "Methane emissions (kt of CO2 equivalent)",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "EN.ATM.NOXE.KT.CE",
+    "name": "Nitrous oxide emissions (thousand metric tons of CO2 equivalent)",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "SP.POP.GROW",
+    "name": "Population growth (annual %)",
+    "is_reverse": "",
+    "category": "Environment"
+  },
+  {
+    "code": "EN.URB.MCTY.TL.ZS",
+    "name": "Population in urban agglomerations of more than 1 million (% of total population)",
+    "is_reverse": "",
+    "category": "Population"
+  },
+  {
+    "code": "EN.POP.EL5M.ZS",
+    "name": "Population living in areas where elevation is below 5 meters (% of total population)",
+    "is_reverse": "",
+    "category": "Population"
+  },
+  {
+    "code": "SP.POP.TOTL",
+    "name": "Population, total",
+    "is_reverse": "",
+    "category": "Population"
+  },
+  {
+    "code": "SH.STA.MALN.ZS",
+    "name": "Prevalence of underweight, weight for age (% of children under 5)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "EG.ELC.RNEW.ZS",
+    "name": "Renewable electricity output (% of total electricity output)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "EG.FEC.RNEW.ZS",
+    "name": "Renewable energy consumption (% of total final energy consumption)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "ER.PTD.TOTL.ZS",
+    "name": "Terrestrial and marine protected areas (% of total territorial area)",
+    "is_reverse": "",
+    "category": "Environment"
+  },
+  {
+    "code": "EN.ATM.GHGT.KT.CE",
+    "name": "Total greenhouse gas emissions (kt of CO2 equivalent)",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "SP.URB.TOTL",
+    "name": "Urban population",
+    "is_reverse": "",
+    "category": "Population"
+  },
+  {
+    "code": "SP.URB.TOTL.IN.ZS",
+    "name": "Urban population (% of total)",
+    "is_reverse": "",
+    "category": "Population"
+  },
+  {
+    "code": "NY.ADJ.SVNG.GN.ZS",
+    "name": "Adjusted net savings, including particulate emission damage (% of GNI)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "GC.DOD.TOTL.GD.ZS",
+    "name": "Central government debt, total (% of GDP)",
+    "is_reverse": 1,
+    "category": "Finance"
+  },
+  {
+    "code": "BM.GSR.ROYL.CD",
+    "name": "Charges for the use of intellectual property, payments (BoP, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "BX.GSR.ROYL.CD",
+    "name": "Charges for the use of intellectual property, receipts (BoP, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "BN.CAB.XOKA.CD",
+    "name": "Current account balance (BoP, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "GC.XPN.TOTL.GD.ZS",
+    "name": "Expense (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "NE.EXP.GNFS.ZS",
+    "name": "Exports of goods and services (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.DOD.DECT.GN.ZS",
+    "name": "External debt stocks (% of GNI)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.DOD.DECT.CD",
+    "name": "External debt stocks, total (DOD, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "BX.KLT.DINV.CD.WD",
+    "name": "Foreign direct investment, net inflows (BoP, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "NY.GDP.MKTP.CD",
+    "name": "GDP (current US$)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "NY.GDP.MKTP.KD.ZG",
+    "name": "GDP growth (annual %)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "NY.GDP.PCAP.CD",
+    "name": "GDP per capita (current US$)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "NY.GDP.PCAP.KD.ZG",
+    "name": "GDP per capita growth (annual %)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "NY.GDP.PCAP.PP.CD",
+    "name": "GDP per capita, PPP (current international $)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "NY.GNP.PCAP.CD",
+    "name": "GNI per capita, Atlas method (current US$)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "NY.GNP.PCAP.PP.CD",
+    "name": "GNI per capita, PPP (current international $)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "NY.GNP.ATLS.CD",
+    "name": "GNI, Atlas method (current US$)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "NY.GNP.MKTP.PP.CD",
+    "name": "GNI, PPP (current international $)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "NE.GDI.TOTL.ZS",
+    "name": "Gross capital formation (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "NY.GNS.ICTR.ZS",
+    "name": "Gross savings (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "NE.IMP.GNFS.ZS",
+    "name": "Imports of goods and services (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "NV.IND.TOTL.ZS",
+    "name": "Industry, value added (% of GDP)",
+    "is_reverse": "",
+    "category": "Industry"
+  },
+  {
+    "code": "NY.GDP.DEFL.KD.ZG",
+    "name": "Inflation, GDP deflator (annual %)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FP.CPI.TOTL.ZG",
+    "name": "Inflation, consumer prices (annual %)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "PA.NUS.PPP",
+    "name": "PPP conversion factor, GDP (LCU per international $)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "BX.TRF.PWKR.CD.DT",
+    "name": "Personal remittances, received (current US$)",
+    "is_reverse": "",
+    "category": "Migration"
+  },
+  {
+    "code": "PA.NUS.PPPC.RF",
+    "name": "Price level ratio of PPP conversion factor (GDP) to market exchange rate",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "GC.REV.XGRT.GD.ZS",
+    "name": "Revenue, excluding grants (% of GDP)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "NV.SRV.TETC.ZS",
+    "name": "Services, etc., value added (% of GDP)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "DT.DOD.DSTC.IR.ZS",
+    "name": "Short-term debt (% of total reserves)",
+    "is_reverse": 1,
+    "category": "Finance"
+  },
+  {
+    "code": "DT.TDS.DECT.EX.ZS",
+    "name": "Total debt service (% of exports of goods, services and primary income)",
+    "is_reverse": 1,
+    "category": "Finance"
+  },
+  {
+    "code": "FI.RES.TOTL.CD",
+    "name": "Total reserves (includes gold, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "SE.PRM.UNER.FE",
+    "name": "Children out of school, primary, female",
+    "is_reverse": 1,
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.UNER.MA",
+    "name": "Children out of school, primary, male",
+    "is_reverse": 1,
+    "category": "Education"
+  },
+  {
+    "code": "SE.XPD.TOTL.GB.ZS",
+    "name": "Expenditure on education as % of total government expenditure (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.XPD.TOTL.GD.ZS",
+    "name": "Government expenditure on education, total (% of GDP)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.XPD.PRIM.PC.ZS",
+    "name": "Government expenditure per student, primary (% of GDP per capita)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.XPD.SECO.PC.ZS",
+    "name": "Government expenditure per student, secondary (% of GDP per capita)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.XPD.TERT.PC.ZS",
+    "name": "Government expenditure per tertiary student as % of GDP per capita (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.ENRR",
+    "name": "Gross enrollment ratio, primary, both sexes (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRE.ENRR",
+    "name": "Gross enrolment ratio, pre-primary, both sexes (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.SEC.ENRR",
+    "name": "Gross enrolment ratio, secondary, both sexes (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.TER.ENRR",
+    "name": "Gross enrolment ratio, tertiary, both sexes (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.GINT.FE.ZS",
+    "name": "Gross intake ratio to Grade 1 of primary education, female (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.GINT.MA.ZS",
+    "name": "Gross intake ratio to Grade 1 of primary education, male (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SL.TLF.TOTL.FE.ZS",
+    "name": "Labor force, female (% of total labor force)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SL.TLF.TOTL.IN",
+    "name": "Labor force, total",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SE.ADT.LITR.FE.ZS",
+    "name": "Literacy rate, adult female (% of females ages 15 and above)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.ADT.LITR.MA.ZS",
+    "name": "Literacy rate, adult male (% of males ages 15 and above)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.ADT.LITR.ZS",
+    "name": "Literacy rate, adult total (% of people ages 15 and above)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.ADT.1524.LT.FE.ZS",
+    "name": "Literacy rate, youth female (% of females ages 15-24)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.ADT.1524.LT.MA.ZS",
+    "name": "Literacy rate, youth male (% of males ages 15-24)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.ADT.1524.LT.ZS",
+    "name": "Literacy rate, youth total (% of people ages 15-24)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.SEC.NENR",
+    "name": "Net enrolment rate, secondary, both sexes (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.REPT.FE.ZS",
+    "name": "Percentage of repeaters in primary education, all grades, female (%)",
+    "is_reverse": 1,
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.REPT.MA.ZS",
+    "name": "Percentage of repeaters in primary education, all grades, male (%)",
+    "is_reverse": 1,
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.TCAQ.ZS",
+    "name": "Percentage of teachers in primary education who are trained, both sexes (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.PRSL.FE.ZS",
+    "name": "Persistence to last grade of primary, female (% of cohort)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.PRSL.MA.ZS",
+    "name": "Persistence to last grade of primary, male (% of cohort)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SP.POP.0014.TO.ZS",
+    "name": "Population ages 0-14 (% of total)",
+    "is_reverse": "",
+    "category": "Population"
+  },
+  {
+    "code": "SP.POP.1564.TO.ZS",
+    "name": "Population ages 15-64 (% of total)",
+    "is_reverse": "",
+    "category": "Population"
+  },
+  {
+    "code": "SE.PRM.CMPT.FE.ZS",
+    "name": "Primary completion rate, female (% of relevant age group)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.CMPT.MA.ZS",
+    "name": "Primary completion rate, male (% of relevant age group)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.SEC.PROG.FE.ZS",
+    "name": "Progression to secondary school, female (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.SEC.PROG.MA.ZS",
+    "name": "Progression to secondary school, male (%)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.ENRL.TC.ZS",
+    "name": "Pupil-teacher ratio in primary education (headcount basis)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SE.PRM.NENR",
+    "name": "School enrollment, primary (% net)",
+    "is_reverse": "",
+    "category": "Education"
+  },
+  {
+    "code": "SL.UEM.TOTL.FE.ZS",
+    "name": "Unemployment, female (% of female labor force) (modeled ILO estimate)",
+    "is_reverse": 1,
+    "category": "Work"
+  },
+  {
+    "code": "SL.UEM.TOTL.MA.ZS",
+    "name": "Unemployment, male (% of male labor force) (modeled ILO estimate)",
+    "is_reverse": 1,
+    "category": "Work"
+  },
+  {
+    "code": "SL.UEM.TOTL.ZS",
+    "name": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
+    "is_reverse": 1,
+    "category": "Work"
+  },
+  {
+    "code": "EG.USE.COMM.CL.ZS",
+    "name": "Alternative and nuclear energy (% of total energy use)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "EG.IMP.CONS.ZS",
+    "name": "Energy imports, net (% of energy use)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "EG.EGY.PRIM.PP.KD",
+    "name": "Energy intensity level of primary energy (MJ/$2011 PPP GDP)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "EG.USE.COMM.FO.ZS",
+    "name": "Fossil fuel energy consumption (% of total)",
+    "is_reverse": 1,
+    "category": "Energy"
+  },
+  {
+    "code": "TX.VAL.FUEL.ZS.UN",
+    "name": "Fuel exports (% of merchandise exports)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "EG.GDP.PUSE.KO.PP.KD",
+    "name": "GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "IE.PPI.ENGY.CD",
+    "name": "Investment in energy with private participation (current US$)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "TX.VAL.MMTL.ZS.UN",
+    "name": "Ores and metals exports (% of merchandise exports)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "IC.ELC.TIME",
+    "name": "Time required to get electricity (days)",
+    "is_reverse": 1,
+    "category": "Energy"
+  },
+  {
+    "code": "NY.GDP.TOTL.RT.ZS",
+    "name": "Total natural resources rents (% of GDP)",
+    "is_reverse": "",
+    "category": "Energy"
+  },
+  {
+    "code": "EN.BIR.THRD.NO",
+    "name": "Bird species, threatened",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "EN.FSH.THRD.NO",
+    "name": "Fish species, threatened",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "EN.MAM.THRD.NO",
+    "name": "Mammal species, threatened",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "EN.ATM.PM25.MC.M3",
+    "name": "PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "EN.ATM.PM25.MC.ZS",
+    "name": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "EN.HPT.THRD.NO",
+    "name": "Plant species (higher), threatened",
+    "is_reverse": 1,
+    "category": "Environment"
+  },
+  {
+    "code": "EN.POP.SLUM.UR.ZS",
+    "name": "Population living in slums (% of urban population)",
+    "is_reverse": 1,
+    "category": "Poverty"
+  },
+  {
+    "code": "ER.H2O.INTR.PC",
+    "name": "Renewable internal freshwater resources per capita (cubic meters)",
+    "is_reverse": "",
+    "category": "Environment"
+  },
+  {
+    "code": "ER.H2O.INTR.K3",
+    "name": "Renewable internal freshwater resources, total (billion cubic meters)",
+    "is_reverse": "",
+    "category": "Environment"
+  },
+  {
+    "code": "DT.DOD.DPNG.CD",
+    "name": "External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.DOD.DPPG.CD",
+    "name": "External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.DOD.DSTC.CD",
+    "name": "External debt stocks, short-term (DOD, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.DOD.MWBG.CD",
+    "name": "IBRD loans and IDA credits (DOD, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.NFL.DECT.CD",
+    "name": "Net flows on external debt, total (NFL, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "DT.DOD.DIMF.CD",
+    "name": "Use of IMF credit (DOD, current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FB.ATM.TOTL.P5",
+    "name": "Automated teller machines (ATMs) (per 100,000 adults)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FB.BNK.CAPA.ZS",
+    "name": "Bank capital to assets ratio (%)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FB.AST.NPER.ZS",
+    "name": "Bank nonperforming loans to total gross loans (%)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FM.LBL.BMNY.GD.ZS",
+    "name": "Broad money (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FM.LBL.BMNY.ZG",
+    "name": "Broad money growth (annual %)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FB.CBK.BRCH.P5",
+    "name": "Commercial bank branches (per 100,000 adults)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FR.INR.DPST",
+    "name": "Deposit interest rate (%)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FS.AST.DOMS.GD.ZS",
+    "name": "Domestic credit provided by financial sector (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FS.AST.PRVT.GD.ZS",
+    "name": "Domestic credit to private sector (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FR.INR.LNDP",
+    "name": "Interest rate spread (lending rate minus deposit rate, %)",
+    "is_reverse": "",
+    "category": "Migration"
+  },
+  {
+    "code": "SM.POP.TOTL",
+    "name": "International migrant stock, total",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FR.INR.LEND",
+    "name": "Lending interest rate (%)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "CM.MKT.LDOM.NO",
+    "name": "Listed domestic companies, total",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "CM.MKT.LCAP.GD.ZS",
+    "name": "Market capitalization of listed domestic companies (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "CM.MKT.LCAP.CD",
+    "name": "Market capitalization of listed domestic companies (current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "PA.NUS.FCRF",
+    "name": "Official exchange rate (LCU per US$, period average)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FR.INR.RINR",
+    "name": "Real interest rate (%)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "FR.INR.RISK",
+    "name": "Risk premium on lending (lending rate minus treasury bill rate, %)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "CM.MKT.INDX.ZG",
+    "name": "S&P Global Equity Indices (annual % change)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "CM.MKT.TRAD.GD.ZS",
+    "name": "Stocks traded, total value (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "CM.MKT.TRNR",
+    "name": "Stocks traded, turnover ratio of domestic shares (%)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "SP.ADO.TFRT",
+    "name": "Adolescent fertility rate (births per 1,000 women ages 15-19)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.STA.BRTC.ZS",
+    "name": "Births attended by skilled health staff (% of total)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SL.TLF.0714.FE.ZS",
+    "name": "Children in employment, female (% of female children ages 7-14)",
+    "is_reverse": 1,
+    "category": "Poverty"
+  },
+  {
+    "code": "SL.TLF.0714.MA.ZS",
+    "name": "Children in employment, male (% of male children ages 7-14)",
+    "is_reverse": 1,
+    "category": "Poverty"
+  },
+  {
+    "code": "SP.DYN.CONU.ZS",
+    "name": "Contraceptive prevalence, any methods (% of women ages 15-49)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SL.FAM.WORK.FE.ZS",
+    "name": "Contributing family workers, female (% of female employment) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SL.FAM.WORK.MA.ZS",
+    "name": "Contributing family workers, male (% of male employment) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SL.IND.EMPL.FE.ZS",
+    "name": "Employment in industry, female (% of female employment) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SL.IND.EMPL.MA.ZS",
+    "name": "Employment in industry, male (% of male employment) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SL.SRV.EMPL.FE.ZS",
+    "name": "Employment in services, female (% of female employment) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SL.SRV.EMPL.MA.ZS",
+    "name": "Employment in services, male (% of male employment) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SP.DYN.TFRT.IN",
+    "name": "Fertility rate, total (births per woman)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "IC.FRM.FEMO.ZS",
+    "name": "Firms with female participation in ownership (% of firms)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "IC.FRM.FEMM.ZS",
+    "name": "Firms with female top manager (% of firms)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SL.TLF.CACT.FE.ZS",
+    "name": "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SL.TLF.CACT.MA.ZS",
+    "name": "Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SP.DYN.LE00.FE.IN",
+    "name": "Life expectancy at birth, female (years)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SP.DYN.LE00.MA.IN",
+    "name": "Life expectancy at birth, male (years)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SG.NOD.CONS",
+    "name": "Nondiscrimination clause mentions gender in the constitution (1=yes; 0=no)",
+    "is_reverse": "",
+    "category": "Gender"
+  },
+  {
+    "code": "SH.HIV.1524.FE.ZS",
+    "name": "Prevalence of HIV, female (% ages 15-24)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.HIV.1524.MA.ZS",
+    "name": "Prevalence of HIV, male (% ages 15-24)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SG.GEN.PARL.ZS",
+    "name": "Proportion of seats held by women in national parliaments (%)",
+    "is_reverse": "",
+    "category": "Gender"
+  },
+  {
+    "code": "SG.TIM.UWRK.FE",
+    "name": "Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SG.TIM.UWRK.MA",
+    "name": "Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SP.MTR.1519.ZS",
+    "name": "Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SL.UEM.1524.FE.ZS",
+    "name": "Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",
+    "is_reverse": 1,
+    "category": "Work"
+  },
+  {
+    "code": "SL.UEM.1524.MA.ZS",
+    "name": "Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",
+    "is_reverse": 1,
+    "category": "Work"
+  },
+  {
+    "code": "SL.EMP.VULN.FE.ZS",
+    "name": "Vulnerable employment, female (% of female employment) (modeled ILO estimate)",
+    "is_reverse": 1,
+    "category": "Work"
+  },
+  {
+    "code": "SL.EMP.VULN.MA.ZS",
+    "name": "Vulnerable employment, male (% of male employment) (modeled ILO estimate)",
+    "is_reverse": 1,
+    "category": "Work"
+  },
+  {
+    "code": "SL.EMP.WORK.FE.ZS",
+    "name": "Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SL.EMP.WORK.MA.ZS",
+    "name": "Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SG.DMK.SRCR.FN.ZS",
+    "name": "Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive heacare  (% of women age 15-49)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SP.POP.DPND",
+    "name": "Age dependency ratio (% of working-age population)",
+    "is_reverse": 1,
+    "category": "Population"
+  },
+  {
+    "code": "SP.DYN.CBRT.IN",
+    "name": "Birth rate, crude (per 1,000 people)",
+    "is_reverse": "",
+    "category": "Population"
+  },
+  {
+    "code": "SH.DTH.COMM.ZS",
+    "name": "Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SH.DTH.INJR.ZS",
+    "name": "Cause of death, by injury (% of total)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SH.DTH.NCOM.ZS",
+    "name": "Cause of death, by non-communicable diseases (% of total)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SP.REG.BRTH.ZS",
+    "name": "Completeness of birth registration (%)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SP.REG.DTHS.ZS",
+    "name": "Completeness of death registration with cause-of-death information (%)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SP.DYN.CDRT.IN",
+    "name": "Death rate, crude (per 1,000 people)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.STA.DIAB.ZS",
+    "name": "Diabetes prevalence (% of population ages 20 to 79)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.MED.BEDS.ZS",
+    "name": "Hospital beds (per 1,000 people)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SH.IMM.IDPT",
+    "name": "Immunization, DPT (% of children ages 12-23 months)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SH.IMM.MEAS",
+    "name": "Immunization, measles (% of children ages 12-23 months)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SP.DYN.LE00.IN",
+    "name": "Life expectancy at birth, total (years)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SH.STA.TRAF.P5",
+    "name": "Mortality caused by road traffic injury (per 100,000 people)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SP.DYN.IMRT.IN",
+    "name": "Mortality rate, infant (per 1,000 live births)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.DYN.NMRT",
+    "name": "Mortality rate, neonatal (per 1,000 live births)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.SGR.PROC.P5",
+    "name": "Number of surgical procedures (per 100,000 population)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SP.POP.65UP.TO.ZS",
+    "name": "Population ages 65 and above (% of total)",
+    "is_reverse": "",
+    "category": "Population"
+  },
+  {
+    "code": "SP.POP.TOTL.FE.ZS",
+    "name": "Population, female (% of total)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SH.ANM.CHLD.ZS",
+    "name": "Prevalence of anemia among children (% of children under 5)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.STA.OWGH.ZS",
+    "name": "Prevalence of overweight, weight for height (% of children under 5)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.SVR.WAST.ZS",
+    "name": "Prevalence of severe wasting, weight for height (% of children under 5)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SN.ITK.DEFC.ZS",
+    "name": "Prevalence of undernourishment (% of population)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.STA.WAST.ZS",
+    "name": "Prevalence of wasting, weight for height (% of children under 5)",
+    "is_reverse": 1,
+    "category": "Migration"
+  },
+  {
+    "code": "SM.POP.REFG",
+    "name": "Refugee population by country or territory of asylum",
+    "is_reverse": "",
+    "category": "Migration"
+  },
+  {
+    "code": "SM.POP.REFG.OR",
+    "name": "Refugee population by country or territory of origin",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SH.SGR.CRSK.ZS",
+    "name": "Risk of catastrophic expenditure for surgical care (% of people at risk)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.SGR.IRSK.ZS",
+    "name": "Risk of impoverishing expenditure for surgical care (% of people at risk)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "SH.MED.SAOP.P5",
+    "name": "Specialist surgical workforce (per 100,000 population)",
+    "is_reverse": "",
+    "category": "Health"
+  },
+  {
+    "code": "SP.UWT.TFRT",
+    "name": "Unmet need for contraception (% of married women ages 15-49)",
+    "is_reverse": 1,
+    "category": "Health"
+  },
+  {
+    "code": "IS.AIR.DPRT",
+    "name": "Air transport, registered carrier departures worldwide",
+    "is_reverse": "",
+    "category": "Transport"
+  },
+  {
+    "code": "IS.SHP.GOOD.TU",
+    "name": "Container port traffic (TEU: 20 foot equivalent units)",
+    "is_reverse": "",
+    "category": "Transport"
+  },
+  {
+    "code": "IT.NET.BBND.P2",
+    "name": "Fixed broadband subscriptions (per 100 people)",
+    "is_reverse": "",
+    "category": "Communication"
+  },
+  {
+    "code": "IT.MLT.MAIN.P2",
+    "name": "Fixed telephone subscriptions (per 100 people)",
+    "is_reverse": "",
+    "category": "Communication"
+  },
+  {
+    "code": "IE.PPI.TELE.CD",
+    "name": "Investment in telecoms with private participation (current US$)",
+    "is_reverse": "",
+    "category": "Communication"
+  },
+  {
+    "code": "IE.PPI.TRAN.CD",
+    "name": "Investment in transport with private participation (current US$)",
+    "is_reverse": "",
+    "category": "Transport"
+  },
+  {
+    "code": "IE.PPI.WATR.CD",
+    "name": "Investment in water and sanitation with private participation (current US$)",
+    "is_reverse": "",
+    "category": "Transport"
+  },
+  {
+    "code": "IT.CEL.SETS.P2",
+    "name": "Mobile cellular subscriptions (per 100 people)",
+    "is_reverse": "",
+    "category": "Transport"
+  },
+  {
+    "code": "IS.RRS.TOTL.KM",
+    "name": "Rail lines (total route-km)",
+    "is_reverse": "",
+    "category": "Transport"
+  },
+  {
+    "code": "IT.NET.SECR.P6",
+    "name": "Secure Internet servers (per 1 million people)",
+    "is_reverse": "",
+    "category": "Communication"
+  },
+  {
+    "code": "SI.SPR.PC40.ZG",
+    "name": "Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "SI.SPR.PCAP.ZG",
+    "name": "Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "SI.POV.GINI",
+    "name": "GINI index (World Bank estimate)",
+    "is_reverse": 1,
+    "category": "Inequality"
+  },
+  {
+    "code": "SI.POV.GAPS",
+    "name": "Poverty gap at $1.90 a day (2011 PPP) (%)",
+    "is_reverse": 1,
+    "category": "Poverty"
+  },
+  {
+    "code": "SI.POV.NAGP",
+    "name": "Poverty gap at national poverty lines (%)",
+    "is_reverse": 1,
+    "category": "Poverty"
+  },
+  {
+    "code": "SI.POV.NAHC",
+    "name": "Poverty headcount ratio at national poverty lines (% of population)",
+    "is_reverse": 1,
+    "category": "Poverty"
+  },
+  {
+    "code": "SI.SPR.PC40",
+    "name": "Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "SI.SPR.PCAP",
+    "name": "Survey mean consumption or income per capita, total population (2011 PPP $ per day)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "SI.POV.URGP",
+    "name": "Urban poverty gap at national poverty lines (%)",
+    "is_reverse": 1,
+    "category": "Poverty"
+  },
+  {
+    "code": "SI.POV.URHC",
+    "name": "Urban poverty headcount ratio at national poverty lines (% of urban population)",
+    "is_reverse": 1,
+    "category": "Poverty"
+  },
+  {
+    "code": "IC.FRM.BKWC.ZS",
+    "name": "Firms using banks to finance working capital (% of firms)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "TX.VAL.TECH.MF.ZS",
+    "name": "High-technology exports (% of manufactured exports)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "TX.VAL.TECH.CD",
+    "name": "High-technology exports (current US$)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "ST.INT.XPND.MP.ZS",
+    "name": "International tourism, expenditures (% of total imports)",
+    "is_reverse": "",
+    "category": "Tourism"
+  },
+  {
+    "code": "ST.INT.RCPT.XP.ZS",
+    "name": "International tourism, receipts (% of total exports)",
+    "is_reverse": "",
+    "category": "Tourism"
+  },
+  {
+    "code": "LP.EXP.DURS.MD",
+    "name": "Lead time to export, median case (days)",
+    "is_reverse": 1,
+    "category": "Trade"
+  },
+  {
+    "code": "LP.IMP.DURS.MD",
+    "name": "Lead time to import, median case (days)",
+    "is_reverse": 1,
+    "category": "Trade"
+  },
+  {
+    "code": "TX.VAL.MRCH.CD.WT",
+    "name": "Merchandise exports (current US$)",
+    "is_reverse": "",
+    "category": "Trade"
+  },
+  {
+    "code": "TM.VAL.MRCH.CD.WT",
+    "name": "Merchandise imports (current US$)",
+    "is_reverse": "",
+    "category": "Trade"
+  },
+  {
+    "code": "TG.VAL.TOTL.GD.ZS",
+    "name": "Merchandise trade (% of GDP)",
+    "is_reverse": "",
+    "category": "Trade"
+  },
+  {
+    "code": "IC.BUS.NREG",
+    "name": "New businesses registered (number)",
+    "is_reverse": "",
+    "category": "Business"
+  },
+  {
+    "code": "IC.REG.PROC",
+    "name": "Start-up procedures to register a business (number)",
+    "is_reverse": 1,
+    "category": "Business"
+  },
+  {
+    "code": "IC.REG.PROC.FE",
+    "name": "Start-up procedures to register a business, female (number)",
+    "is_reverse": 1,
+    "category": "Business"
+  },
+  {
+    "code": "IC.REG.PROC.MA",
+    "name": "Start-up procedures to register a business, male (number)",
+    "is_reverse": 1,
+    "category": "Business"
+  },
+  {
+    "code": "IC.REG.DURS",
+    "name": "Time required to start a business (days)",
+    "is_reverse": 1,
+    "category": "Business"
+  },
+  {
+    "code": "IC.REG.DURS.FE",
+    "name": "Time required to start a business, female (days)",
+    "is_reverse": 1,
+    "category": "Business"
+  },
+  {
+    "code": "IC.REG.DURS.MA",
+    "name": "Time required to start a business, male (days)",
+    "is_reverse": 1,
+    "category": "Business"
+  },
+  {
+    "code": "IC.GOV.DURS.ZS",
+    "name": "Time spent dealing with the requirements of government regulations (% of senior management time)",
+    "is_reverse": 1,
+    "category": "Business"
+  },
+  {
+    "code": "IC.TAX.TOTL.CP.ZS",
+    "name": "Total tax rate (% of commercial profits)",
+    "is_reverse": "",
+    "category": "Business"
+  },
+  {
+    "code": "VC.IHR.PSRC.P5",
+    "name": "Intentional homicides (per 100,000 people)",
+    "is_reverse": 1,
+    "category": "Violence"
+  },
+  {
+    "code": "MS.MIL.XPND.GD.ZS",
+    "name": "Military expenditure (% of GDP)",
+    "is_reverse": 1,
+    "category": "Military"
+  },
+  {
+    "code": "MS.MIL.XPND.ZS",
+    "name": "Military expenditure (% of central government expenditure)",
+    "is_reverse": 1,
+    "category": "Military"
+  },
+  {
+    "code": "GC.AST.TOTL.GD.ZS",
+    "name": "Net acquisition of financial assets (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "GC.LBL.TOTL.GD.ZS",
+    "name": "Net incurrence of liabilities, total (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "GC.NFN.TOTL.GD.ZS",
+    "name": "Net investment in nonfinancial assets (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "GC.NLD.TOTL.GD.ZS",
+    "name": "Net lending (+) / net borrowing (-) (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "IQ.SCI.OVRL",
+    "name": "Statistical Capacity score (Overall average)",
+    "is_reverse": "",
+    "category": "Statistics"
+  },
+  {
+    "code": "GC.TAX.TOTL.GD.ZS",
+    "name": "Tax revenue (% of GDP)",
+    "is_reverse": "",
+    "category": "Finance"
+  },
+  {
+    "code": "IP.PAT.NRES",
+    "name": "Patent applications, nonresidents",
+    "is_reverse": "",
+    "category": "Technology"
+  },
+  {
+    "code": "IP.PAT.RESD",
+    "name": "Patent applications, residents",
+    "is_reverse": "",
+    "category": "Technology"
+  },
+  {
+    "code": "GB.XPD.RSDV.GD.ZS",
+    "name": "Research and development expenditure (% of GDP)",
+    "is_reverse": "",
+    "category": "Technology"
+  },
+  {
+    "code": "SP.POP.SCIE.RD.P6",
+    "name": "Researchers in R&amp;D (per million people)",
+    "is_reverse": "",
+    "category": "Technology"
+  },
+  {
+    "code": "IP.JRN.ARTC.SC",
+    "name": "Scientific and technical journal articles",
+    "is_reverse": "",
+    "category": "Technology"
+  },
+  {
+    "code": "SP.POP.TECH.RD.P6",
+    "name": "Technicians in R&amp;D (per million people)",
+    "is_reverse": "",
+    "category": "Technology"
+  },
+  {
+    "code": "IP.TMK.NRES",
+    "name": "Trademark applications, direct nonresident",
+    "is_reverse": "",
+    "category": "Technology"
+  },
+  {
+    "code": "IP.TMK.RESD",
+    "name": "Trademark applications, direct resident",
+    "is_reverse": "",
+    "category": "Technology"
+  },
+  {
+    "code": "SL.TLF.0714.ZS",
+    "name": "Children in employment, total (% of children ages 7-14)",
+    "is_reverse": 1,
+    "category": "Poverty"
+  },
+  {
+    "code": "SL.EMP.TOTL.SP.ZS",
+    "name": "Employment to population ratio, 15+, total (%) (modeled ILO estimate)",
+    "is_reverse": "",
+    "category": "Work"
+  },
+  {
+    "code": "SL.GDP.PCAP.EM.KD",
+    "name": "GDP per person employed (constant 2011 PPP $)",
+    "is_reverse": "",
+    "category": "Wealth"
+  },
+  {
+    "code": "EN.POP.DNST",
+    "name": "Population density (people per sq. km of land area)",
+    "is_reverse": 1,
+    "category": "Population"
+  },
+  {
+    "code": "EN.URB.LCTY.UR.ZS",
+    "name": "Population in the largest city (% of urban population)",
+    "is_reverse": "",
+    "category": "Population"
+  }
+]
