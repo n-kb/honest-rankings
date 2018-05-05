@@ -72,7 +72,7 @@
 
     if (process.env.NODE_ENV == "dev") {
     	window.instance = axios.create({
-		  baseURL: 'http://127.0.0.1:5000'
+		  baseURL: 'http://127.0.0.1:33507'
 		});
     } else {
     	window.instance = axios.create({
@@ -182,6 +182,9 @@
 <style lang="sass">
 
 @import "../assets/scss/variables.scss"
+
+.container
+	padding: 0 1em
 
 .lede
 	line-height: 1.8em

@@ -58,21 +58,29 @@
 				</div>
 			</div>
 			<div v-for="country in rankings.data" class="columns country-ranked">
-				<div class="ranking-number column" v-bind:style="{ 'background-color': renderRankColor(country.scores[0]) }">
-					<span class="is-hidden-tablet">Rank:&nbsp;</span>
+				<country-detail 
+					class="is-hidden-tablet" 
+					:color="renderRankColor(country.scores[0])"
+					:rank="country.rank"
+					:score="(country.scores[0] * 100).toFixed(0)"
+					:name="country.country_name" 
+					:indicatorsNames="rankings.indicators" 
+					:indicatorValues="country.components">
+				</country-detail>
+				<div class="ranking-number column is-hidden-mobile" v-bind:style="{ 'background-color': renderRankColor(country.scores[0]) }">
 					{{ country.rank }}
 				</div>
-				<div class="ranking-country_name column">
+				<div class="ranking-country_name column is-hidden-mobile">
 					{{ country.country_name }}
 				</div>
-				<div class="ranking-score column">
+				<div class="ranking-score column is-hidden-mobile">
 					<span class="is-hidden-tablet">Score:&nbsp;</span>
 					{{ (country.scores[0] * 100).toFixed(0) }}
 				</div>
-				<div class="column is-hidden-tablet ranking-components">
+				<div class="column is-hidden-tablet ranking-components is-hidden-mobile">
 					Index components
 				</div>
-				<div class="column country-ranked-component" v-for="component in country.components">
+				<div class="column country-ranked-component is-hidden-mobile" v-for="component in country.components">
 					<span class="is-hidden-tablet">{{ rankings.indicators[country.components.indexOf(component)].name }}:&nbsp;</span>
 					{{ component.score == "NaN" ? "no data" : component.score.toFixed(1) }}
 				</div>
@@ -105,6 +113,7 @@
 
 <script>
 import RankingMap from './Ranking-Map.vue';
+import CountryDetail from './Country-Detail.vue';
 import chroma from 'chroma-js';
 
 export default{
@@ -132,7 +141,7 @@ export default{
 				return scale(score).hex();
 			}
 		},
-		components: { RankingMap },
+		components: { RankingMap, CountryDetail },
 		created() {
 			window.instance.get("ranking/" + this.$route.params.ranking_id).then(response => {
 		      // JSON responses needs a tweak to be parsed
@@ -150,6 +159,9 @@ export default{
 <style lang="sass">
 
 @import "../assets/scss/variables.scss"
+
+.container
+	padding: 0 1em
 
 .ranking-title
 	text-transform: uppercase

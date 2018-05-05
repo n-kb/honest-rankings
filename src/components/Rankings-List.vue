@@ -10,15 +10,15 @@
 			 	Best nation:&nbsp;
 			 	{{ ranking.lead_name }}
 			</div>
-			<div class="column list-ranking-detail">
+			<div class="column list-ranking-detail is-hidden-mobile">
 			 	Number of countries ranked:&nbsp;
 			 	{{ ranking.countries_num }}
 			</div>
-			<div class="column list-ranking-detail">
+			<div class="column list-ranking-detail is-hidden-mobile">
 			 	Last year available:&nbsp;
 			 	{{ ranking.last_year }}
 			</div>
-			<div class="column list-ranking-detail">
+			<div class="column list-ranking-detail is-hidden-mobile">
 			 	Number of years available:&nbsp;
 			 	{{ ranking.years_number }}
 			</div>

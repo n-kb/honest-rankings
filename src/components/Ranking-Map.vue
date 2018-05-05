@@ -47,8 +47,8 @@
 				    .range([this.colorScale[0], this.colorScale[this.colorScale.length - 1]]);
 
 				// Size of the canvas on which the map will be rendered
-				var width = 1000,  
-				    height = 400,
+				var width = parseInt(d3.select('#map').style('width')),  
+				    height = width /2.4,
 				    // SVG element as a JavaScript object that we can manipulate later
 				    svg = d3.select("#map").append("svg")
 				      .attr("width", width)
@@ -57,6 +57,8 @@
 				// Instantiate the projection object
 				var projection = d3.geoEquirectangular()  
 				    .center(center)
+				    .scale(width/7)
+    				.translate([width / 2, height / 2]);
 
 				var scores = d3.map();
 
@@ -98,6 +100,7 @@
 
 .map
 	text-align: center
+	margin-bottom: -6em
 
 .countries
 	stroke: #fff;
