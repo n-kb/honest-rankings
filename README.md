@@ -1,18 +1,5 @@
-# app-rankings
+# Honest Rankings
 
-> A Vue.js project
+Many organizations produce country rankings. But they very often put the same countries on top! This is boring.
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For more ranking diversity, the data scientists of Honest Rankings provide you with a variety of indexes. Either find the one that suits your agenda or create your own! 
