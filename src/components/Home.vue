@@ -53,7 +53,7 @@
 	        			Rankings are produced by prestigious institutions, which are large and powerful enough to create the indexes they need to push their respective agendas. And when the outcome does not fit, they <a href="https://web.archive.org/web/20180217174235/https://www.bloomberg.com/news/articles/2018-01-13/chile-demands-answers-in-world-bank-business-ranking-controversy">sometimes change their methodology</a>. No one ever notices these methodological wrongdoings because indexes are like sausages: Everyone likes them but no one knows what's in them.
 	        		</p>
 	        		<p>
-	        			At Honest Rankings, we believe that everyone should have the right to create his or her own global index. Just click on "Make a new ranking"! If the right country comes on top, simply write a press release from your data, spread the word and enjoy your country of choice being touted as the best in the world.
+	        			At Honest Rankings, we believe that everyone should have the right to create his or her own global index. Click on "Make a new ranking" and watch the magic unfold! If the right country comes on top, simply write a press release from your data, spread the word and enjoy your country of choice being touted as the best in the world.
 	        		</p>
 	        	</div>
         	</div>
